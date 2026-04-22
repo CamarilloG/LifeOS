@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![LifeOS Banner](https://via.placeholder.com/1200x300/6366f1/ffffff?text=LifeOS+%7C+Local-First+Personal+Operating+System)
-
 **一个应用，替代你的 12 个 App。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +10,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.0-38bdf8)
 ![Gemini AI](https://img.shields.io/badge/AI-Gemini%202.5-orange)
 
-[在线演示](https://life-os-sandy.vercel.app/ · [报告 Bug](https://github.com/yourusername/lifeos/issues) · [功能请求](https://github.com/yourusername/lifeos/issues)
 
 </div>
 
